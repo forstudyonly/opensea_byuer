@@ -1,0 +1,6 @@
+TOKEN=
+HOST=localhost
+USER_BD=root
+PASSWORD=root
+DATABASE=opensea
+CHAT_ID=
